@@ -1,0 +1,16 @@
+{
+  "name": "log-examples",
+  "version": "1.0.0",
+  "description": "To log events in the server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Cadence Ohl",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
